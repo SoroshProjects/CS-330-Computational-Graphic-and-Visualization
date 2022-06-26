@@ -1,1 +1,7 @@
 # CS-330-Computational-Graphic-and-Visualization
+1. How do I approach designing software?
+- This course was my first experience with programming computational graphics and visualization. It introduced me to OpenGL which is an API used for programming graphics in C++. Although I have used modular design and object-oriented programming in my previous computer courses, this class helped to strengthen those skills further and improve my programming approach.
+2. How do I approach developing programs?
+- Programming is about discipline and constant development and testing to ensure adding new capabilities are not affecting previously developed functions or the overall security of the program. Perhaps the new development strategies I used in this class were how to utilize the previously developed program and modify the code to perform new functions and capabilities. Development through iteration is the most important fundamental aspect of computer programming and it is the most helpful process in programming. Programming is all about optimization and finding the best solution for achieving outstanding and satisfying results. Practicing previous concepts and adding new ones helped me learn the steps better and I was able to revise my solution to produce an optimized result.
+3. How can computer science help me in reaching my goals?
+- This class emphasizes the use of API which is a very useful tool to master in computer science. In addition, it familiarized me with computational graphic programming which is a very massive industry.
